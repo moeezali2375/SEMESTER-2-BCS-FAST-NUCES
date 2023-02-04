@@ -1,0 +1,3 @@
+/Users/moeezali/Documents/VS/SEMESTER#2/OOP/SFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/moeezali/Documents/VS/SEMESTER#2/OOP/SFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/moeezali/Documents/VS/SEMESTER#2/OOP/SFML/cmake-build-debug/CMakeFiles/HelloSFML.dir

@@ -1,0 +1,5 @@
+/Users/moeezali/Documents/VS/SEMESTER#2/POINTERS/findmin.cpp
+/Users/moeezali/Documents/VS/SEMESTER#2/POINTERS/1.cpp
+/Users/moeezali/Documents/VS/SEMESTER#2/POINTERS/pointers_arrays.cpp
+/Users/moeezali/Documents/VS/SEMESTER#2/POINTERS/pointers.cpp
+/Users/moeezali/Documents/VS/SEMESTER#2/POINTERS/assignvaluetest.cpp

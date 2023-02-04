@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    },
+    "cSpell.ignoreWords": [
+        "UIHUIHUIHUIHUIHUI",
+        "denum",
+        "sptr"
+    ]
+}

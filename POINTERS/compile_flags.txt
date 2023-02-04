@@ -1,0 +1,9 @@
+-I/Users/moeezali/Documents/VS/SEMESTER#2/POINTERS
+-I/usr/local/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1
+-I/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
+-I/Library/Developer/CommandLineTools/usr/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
+-target
+x86_64-apple-darwin21.3.0

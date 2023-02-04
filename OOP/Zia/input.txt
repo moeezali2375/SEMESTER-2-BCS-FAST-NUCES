@@ -1,0 +1,6 @@
+5
+ABCDE
+BCD
+ABAaa
+ZzAac
+AQSaa

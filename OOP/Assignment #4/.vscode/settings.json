@@ -1,0 +1,10 @@
+{
+    "cSpell.ignoreWords": [
+        "fout",
+        "moeez"
+    ],
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
